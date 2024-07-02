@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer and Data Science enthusiast</h3>
 <img align="right" width="400" src="https://github.com/Pradyumna-cyber/Pradyumna-cyber/assets/73057121/4ddb295e-b073-4d69-abdb-3db48396e3eb">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyumna-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="pradyumna-cyber" /> </p>
-🌱 I’m currently learning Flutter
+🌱 I’m currently learning Python,AI&ML concepts and Flutter
 📫 How to reach me: pradyumnaaher05@gmail.com
 📄 Know about my experiences: My Resume
 ⚡ Fun fact: I am funny
