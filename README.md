@@ -117,19 +117,13 @@ I build intelligent, production-ready AI applications using Large Language Model
 ## Frontend & Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter"/>
-</p>
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,html,css"/>
 </p>
 
 ## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify"/>
 </p>
 
 ---
