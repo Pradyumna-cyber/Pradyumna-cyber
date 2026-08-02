@@ -155,16 +155,6 @@ I build intelligent, production-ready AI applications using Large Language Model
 
 ---
 
-# 📄 Resume
-
-<p>
-<a href="https://drive.google.com/file/d/1nnLsBB7KlgKW1v40gQVaslo9ZDz62p62/view?usp=sharing">
-<img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="left">
