@@ -9,12 +9,7 @@ AI Engineer | Generative AI | RAG | AI Agents | MCP | Full-Stack Development
 I build intelligent, production-ready applications using Large Language Models, Retrieval-Augmented Generation, AI Agents, Model Context Protocol, FastAPI, and modern frontend technologies.
 </p>
 
-<img
-  align="right"
-  width="380"
-  alt="AI Engineer Coding Animation"
-  src="https://media.giphy.com/media/PVTk6wFkqyylIYHRIk/giphy.gif"
-/>
+
 
 <p align="left">
   <img
