@@ -16,7 +16,7 @@ I build intelligent, production-ready applications using Large Language Models, 
   <a href="https://linkedin.com/in/pradyumnaaher05" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pradyumna%20Aher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://pradyumnaa-portfolio.netlify.app" target="_blank">
+  <a href="https://pradyumnaa-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
